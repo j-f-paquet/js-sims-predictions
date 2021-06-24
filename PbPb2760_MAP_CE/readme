@@ -1,0 +1,2 @@
+unzip results_recalc_MAP_CE_Pb_2760_fine_pT.zip
+python3 calculations_print_single_event.py ./results_recalc_MAP_CE_Pb_2760_fine_pT.dat
